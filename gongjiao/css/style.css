@@ -1,0 +1,19 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+
+.page_title {
+	text-align: center;
+	font-size: 34px;
+	color: #3cc51f;
+	font-weight: 400;
+	margin: 0 15%;
+}
+
+.page_desc {
+	text-align: right;
+	color: #888;
+	font-size: 14px;
+	margin-right:2%;
+}
